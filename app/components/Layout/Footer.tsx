@@ -16,7 +16,7 @@ const Footer = () => (
               Please reach out to us with any questions or concerns. We’re happy
               to hear from you.
             </p>
-          {/* <p className="mt-10">Registered Charity: 12345-67</p> */}
+          <p className="mt-10">Registered Charity: 12345-67</p>
           </div>
           <div className="basis-1/3"></div>
           <div className="basis-1/2 border-b border-white pb-4">
