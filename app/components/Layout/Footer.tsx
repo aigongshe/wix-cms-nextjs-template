@@ -16,18 +16,18 @@ const Footer = () => (
               Please reach out to us with any questions or concerns. We’re happy
               to hear from you.
             </p>
-            <p className="mt-10">Registered Charity: 12345-67</p>
+          {/* <p className="mt-10">Registered Charity: 12345-67</p> */}
           </div>
           <div className="basis-1/3"></div>
           <div className="basis-1/2 border-b border-white pb-4">
             <p className="mt-10">
-              500 Terry Francois Street
-              <br /> San Francisco, CA 94158
+              Nanshan Science and Technology Park
+              <br /> Nanshan, Shenzhen, Guangdong
             </p>
             <p className="mt-10">Phone: 1-800-000-0000</p>
           </div>
         </div>
-        <h3 className="text-4xl mt-10">info@mysite.com</h3>
+        <h3 className="text-4xl mt-10">ameureka@ameureka.com</h3>
       </div>
       <div className="basis-1/3 bg-gray-200 p-14 text-center">
         <h2 className="text-2xl sm:text-3xl font-bold">BE THE FIRST TO KNOW</h2>
@@ -45,7 +45,7 @@ const Footer = () => (
     <div className="mx-auto text-center sm:text-xs mt-6">
       <Logo />
       <p className="font-default mb-10">
-        © 2035 ChoosEquality. Powered and secured by Wix
+        © 2024 Ameureka. Powered and secured by Ameureka
       </p>
     </div>
   </footer>
