@@ -15,8 +15,9 @@ const Header = () => (
             className="flex flex-col sm:flex-row items-center gap-2 sm:gap-6"
           >
             <Logo />
+            {/* 显示网站名称 "ChoosEquality"，并设置字体样式。 */}
             <div>
-              <span className="block font-site">ChoosEquality</span>
+              <span className="block font-site">Ameureka</span>
               <span className="text-xs">Education for All</span>
             </div>
           </a>
