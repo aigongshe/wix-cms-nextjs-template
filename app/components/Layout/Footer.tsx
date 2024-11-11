@@ -9,14 +9,13 @@ const Footer = () => (
   >
     <div className="flex flex-col sm:flex-row">
       <div className="basis-2/3 bg-blue-site text-white p-14 sm:pl-44">
-        <h2 className="text-2xl sm:text-3xl font-bold">CONTACT US</h2>
+        <h2 className="text-2xl sm:text-3xl font-bold">CONTACT US 联系我们</h2>
         <div className="flex flex-col sm:flex-row text-sm font-helvetica">
           <div className="basis-1/3 border-b border-white pb-4">
             <p className="mt-10">
               Please reach out to us with any questions or concerns. We’re happy
-              to hear from you.
+              to hear from you. 如有任何问题或疑虑，请联系我们。我们很高兴收到您的来信。
             </p>
-            <p className="mt-10">Registered Charity: 12345-67</p>
           </div>
           <div className="basis-1/3"></div>
           <div className="basis-1/2 border-b border-white pb-4">
